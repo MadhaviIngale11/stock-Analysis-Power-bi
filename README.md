@@ -7,6 +7,9 @@
 This project has an aim to build visualisation dashboards to get an insight of the data. Following dashboard contains various widgets giving an overview of measures in data. 
 
 In this dashboard a slicer is implemented to filter data on company. Once a company is selected various measures such as open - close values, trends and monthly volumes are displayed. 
+## Data Description
+Stock market dataset for Amazon, Apple, Google and IBM is given. The key components of data are daily open, close, high and low value. It also describes the volume of stock traded per day. 
+
 
 
 
